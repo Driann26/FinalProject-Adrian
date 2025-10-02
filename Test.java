@@ -3,5 +3,6 @@ public class Test {
         System.out.println("Hi, ini barisan kode pertama");
         System.out.println("Iya ");
         System.out.println("moleh jam piro");
+        System.out.println("saiki a");
     }
 }
