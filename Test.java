@@ -4,5 +4,7 @@ public class Test {
         System.out.println("Iya ");
         System.out.println("moleh jam piro");
         System.out.println("saiki a");
+        System.out.println("loh aku takok iki");
+        
     }
 }
